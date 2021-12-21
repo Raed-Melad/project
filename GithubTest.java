@@ -9,7 +9,7 @@ public class GithubTest {
         int x = 9;
         int y=1;
         int z;
-        z=(x+y)/2;
+        z=(x+y)*2;
         System.out.println(z);
         
               
